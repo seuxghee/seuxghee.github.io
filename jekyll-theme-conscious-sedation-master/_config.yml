@@ -89,7 +89,7 @@ precache_glob_patterns: # Optional
 precache_glob_ignores: # Optional
   - sw-register.js
   - "fonts/**/*"
-
+theme: jekyll-theme-conscious-sedation
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
