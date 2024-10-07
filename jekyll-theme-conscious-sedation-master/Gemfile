@@ -19,3 +19,5 @@ gem "jekyll-mentions", "~> 1.4"
 gem "jemoji", "~> 0.10.1"
 
 gem "jekyll-pwa-plugin", "~> 2.0"
+
+gem "jekyll-theme-conscious-sedation"
